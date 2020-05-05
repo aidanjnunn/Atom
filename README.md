@@ -1,7 +1,7 @@
-### Minimalisim : The Future
+#### Minimalisim : The Future
 
 
-# Atom
+
 
 
 
